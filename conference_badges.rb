@@ -21,6 +21,6 @@ def printer
   puts speaker
   end
   assign_rooms(speakers).each do |room|
-    puts room 
+    puts room
   end 
 end
